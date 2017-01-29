@@ -1,0 +1,80 @@
+{
+    "intents": [
+        {
+            "intent": "ListIntent",
+            "slots": []
+        },
+        {
+            "intent": "ListProductsIntent",
+            "slots": []
+        },
+        {
+            "intent": "ListFeaturesIntent",
+            "slots": []
+        },
+        {
+            "intent": "ProductFooIntent",
+            "slots": []
+        },
+        {
+            "intent": "ProductBarIntent",
+            "slots": []
+        },
+        {
+            "intent": "FeatureAlphaIntent",
+            "slots": []
+        },
+        {
+            "intent": "FeatureBetaIntent",
+            "slots": []
+        },
+        {
+            "intent": "FeatureCharlieIntent",
+            "slots": []
+        },
+        {
+            "intent": "AddAnAlphaIntent",
+            "slots": []
+        },
+        {
+            "intent": "EditAnAlphaIntent",
+            "slots": []
+        },
+        {
+            "intent": "DeleteAnAlphaIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.YesIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.NoIntent",
+            "slots": []
+        },        
+        {
+            "intent": "AMAZON.RepeatIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.NextIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.CancelIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.StopIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.StartOverIntent",
+            "slots": []
+        },
+        {
+            "intent": "AMAZON.HelpIntent",
+            "slots": []
+        }
+    ]
+}

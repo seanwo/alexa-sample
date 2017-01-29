@@ -1,0 +1,41 @@
+ListIntent list
+ListIntent give me a list
+ListProductsIntent list products
+ListProductsIntent list the products
+ListProductsIntent list your products
+ListProductsIntent what products
+ListProductsIntent what products can you help me with
+ListProductsIntent which products
+ListProductsIntent which products can you help me with
+ListFeaturesIntent list features
+ListFeaturesIntent list the features
+ListFeaturesIntent list your features
+ListFeaturesIntent what features
+ListFeaturesIntent what features can you help me with
+ListFeaturesIntent which features
+ListFeaturesIntent which features can you help me with
+ProductFooIntent foo
+ProductFooIntent product foo
+ProductFooIntent select foo
+ProductFooIntent help with foo
+ProductFooIntent i need help with foo
+ProductBarIntent bar
+ProductBarIntent product bar
+ProductBarIntent select bar
+ProductBarIntent help with bar
+ProductBarIntent i need help with bar
+FeatureAlphaIntent alpha
+FeatureAlphaIntent help with alpha
+FeatureAlphaIntent help me with alpha
+FeatureAlphaIntent i need help with alpha
+FeatureBetaIntent beta
+FeatureBetaIntent help with beta
+FeatureBetaIntent help me with beta
+FeatureBetaIntent i need help with beta
+FeatureCharlieIntent charlie
+FeatureCharlieIntent help with charlie
+FeatureCharlieIntent help me with charlie
+FeatureCharlieIntent i need help with charlie
+AddAnAlphaIntent add an alpha
+EditAnAlphaIntent edit an alpha
+DeleteAnAlphaIntent delete an alpha
